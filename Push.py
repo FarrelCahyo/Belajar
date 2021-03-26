@@ -1,0 +1,1 @@
+print ("Semoga Sukses")
